@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "firstName": "sooraj",
+      "lastName": "rajkumar",
+      "email": "soorajrk007@gmail.com",
+      "dob": "2023-03-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "amazon",
+      "experience": 1,
+      "package": 36,
+      "id": 1
+    },
+    {
+      "firstName": "abhi",
+      "lastName": "e",
+      "email": "abhiji@gmail",
+      "dob": "0200-05-08T18:06:32.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "hellopixel",
+      "experience": 1,
+      "package": 12,
+      "id": 3
+    },
+    {
+      "firstName": "ashik",
+      "lastName": "k",
+      "email": "ashik@gmail",
+      "dob": "1999-10-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "luminar",
+      "experience": 2,
+      "package": 30,
+      "id": 4
+    }
+  ]
+}
